@@ -1,0 +1,32 @@
+/*------------------------------------------------
+File Name: README
+Desc: Graph and BFS for PA4
+
+Name:   Joseph Csoti
+CruzID: 1617438 // jcsoti
+Class:  CMPS 101
+Date:   11/25/18
+------------------------------------------------*/
+
+Contents:
+  pa4/
+    FindPath.c
+    Graph.c
+    Graph.h
+    GraphTest.c
+    List.c
+    List.h
+    Makefile
+    README
+
+Descriptions:
+  FindPath.c        Find the shortest path given a graph
+  Graph.c           Graph ADT using our List ADT
+  Graph.h           Graph Header file
+  GraphTest.c       Test file for the graph ADT
+  List.c            Generic List ADT
+  List.h            List Header file
+  Makefile          Automates compiling, running, and submitting of files
+  README            This file describing all other files
+
+Notes: None

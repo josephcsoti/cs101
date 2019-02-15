@@ -1,0 +1,31 @@
+/*------------------------------------------------
+File Name: README
+Desc: Matrix operations
+Instructions: None
+
+Name:   Joseph Csoti
+CruzID: 1617438 // jcsoti
+Class:  CMPS 101
+Date:   10/09/18
+------------------------------------------------*/
+
+Contents:
+  pa3/
+    List.java
+    ListTest.java
+    Matrix.java
+    MatrixTest.java
+    Sparse.java
+    Makefile
+    README
+
+Descriptions:
+  List.java         Generic, or <T> "type", Doubly-linked list
+  ListTest.java     Used to test the list
+  Matrix.java       "Matrix" ADT using our Linked List
+  MatrixTest.java   Tests all functions of Matrix
+  Sparse.java       Uses Matrix ADT and outputs results to a file
+  Makefile          Automates compiling, running, and submitting of files
+  README            This file describing all other files
+
+Notes: None

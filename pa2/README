@@ -1,0 +1,21 @@
+/*------------------------------------------------
+File Name: README
+Desc: Doubly-linked list ADT in C
+Instructions: None
+
+Name:   Joseph Csoti
+CruzID: 1617438 // jcsoti
+Class:  CMPS 101
+Date:   10/22/18
+------------------------------------------------*/
+
+Contents:
+  pa2/
+    Lex.c
+    List.c
+    List.h
+    ListClient.c
+    Makefile
+    README
+
+Notes: None

@@ -1,0 +1,20 @@
+/*------------------------------------------------
+File Name: README
+Desc: Doubly-linked list ADT
+Instructions: None
+
+Name:   Joseph Csoti
+CruzID: 1617438 // jcsoti
+Class:  CMPS 101
+Date:   10/09/18
+------------------------------------------------*/
+
+Contents:
+  pa1/
+    Lex.java
+    List.java
+    ListClient.java
+    Makefile
+    README
+
+Notes: None
